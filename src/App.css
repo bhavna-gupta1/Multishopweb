@@ -27,7 +27,6 @@
 .App-link {
   color: #61dafb;
 }
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +34,27 @@
   to {
     transform: rotate(360deg);
   }
+}
+ .card{
+  float: left;
+  display: flex;
+  width:28rem;
+  padding: 5pc;
+  
+} 
+.add-minus-quantity{
+  float: left;
+}
+.inputfield{
+  size: 5pc;
+}
+.div_element{
+  margin: 3px solid  black;
+  align-items: center;
+  float: left;
+}
+.singlebutton{
+  color: #61dafb;
+  float: left;
+  orientation: center;
 }

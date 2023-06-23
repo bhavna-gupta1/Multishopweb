@@ -1,0 +1,17 @@
+.img{
+    height: 2pc;
+    width: 2pc;
+}
+.table {
+
+    border-top: 2pc;
+    border-bottom: 2pc;
+    border-left: 2pc;
+    border-right:2pc ;
+    border-width: 2pc solid black;
+}
+
+.image{
+    height: 2pc;
+    width: 2pc;
+}
